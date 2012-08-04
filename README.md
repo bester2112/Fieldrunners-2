@@ -1,11 +1,11 @@
-10000000
+Fieldrunners 2
 ========
 
 Savegame 
 
 Link from AppStore
-http://itunes.apple.com/us/app/10000000/id544385071?mt=8
+http://itunes.apple.com/de/app/fieldrunners-2/id527358348?mt=8
 
 Replace File in 
 
-private/var/mobile/Applications/XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX/Libary/Preferences
+private/var/mobile/Applications/XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX/Libary/ & Documents/
